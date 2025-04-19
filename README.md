@@ -2,17 +2,34 @@
 
 ###
 
-<p align="left">Hello World!!<br>I’m a data scientist with hands-on experience developing machine learning models, building dashboards, and delivering data-driven solutions to real-world problems. I’ve worked on projects spanning blockchain data visualization, smart farming, logistics optimization, and user behavior analysis. My approach blends technical skills with business understanding, helping organizations unlock insights and make informed decisions. I’m passionate about using data to drive impact, especially in underrepresented areas like Nigeria’s tech and business landscape.</p>
+<img align="right" height="130" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE6Y2mbArSSossglf-HG_CzH94i0bS5S5tdg&s"  />
 
 ###
 
-<img align="left" height="120" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE6Y2mbArSSossglf-HG_CzH94i0bS5S5tdg&s"  />
+<p align="left">Hello World!!<br>I’m a data scientist with hands-on experience developing machine learning models, building dashboards, and delivering data-driven solutions to real-world problems. I’ve worked on projects spanning blockchain data visualization, smart farming, logistics optimization, and user behavior analysis. My approach blends technical skills with business understanding, helping organizations unlock insights and make informed decisions. I’m passionate about using data to drive impact, especially in underrepresented areas like Nigeria’s tech and business landscape.</p>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Habibmaryam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Habibmaryam&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://discord.com/channels/habibmaryam1 " target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/habibmaryam1/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://medium.com/@maryamabdullahi_13821" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  </a>
+  <a href="https://www.instagram.com/habibmaryam1/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
@@ -41,23 +58,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="rstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://discord.com/channels/habibmaryam1 " target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/habibmaryam1/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://medium.com/@maryamabdullahi_13821" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  </a>
-  <a href="https://www.instagram.com/habibmaryam1/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
 </div>
 
 ###
