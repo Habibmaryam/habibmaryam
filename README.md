@@ -1,3 +1,5 @@
+<h2 align="left">Hi 👋! My name is Maryam Habib and I'm an ML engineer from Nigeria</h2>
+
 ###
 
 <p align="left">Hello World!!<br>I’m a data scientist with hands-on experience developing machine learning models, building dashboards, and delivering data-driven solutions to real-world problems. I’ve worked on projects spanning blockchain data visualization, smart farming, logistics optimization, and user behavior analysis. My approach blends technical skills with business understanding, helping organizations unlock insights and make informed decisions. I’m passionate about using data to drive impact, especially in underrepresented areas like Nigeria’s tech and business landscape.</p>
